@@ -23,3 +23,5 @@ group :development do
   gem 'listen', '~> 3.2'
   gem 'standard'
 end
+
+gem 'blorgh', path: 'blorgh'
